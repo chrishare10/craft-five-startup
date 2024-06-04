@@ -8,11 +8,8 @@
     "nystudio107/craft-minify": "^5.0.0-beta.2",
     "nystudio107/craft-seomatic": "^5.0.0-beta.8",
     "nystudio107/craft-vite": "^5.0.0-beta.3",
-    "putyourlightson/craft-blitz": "5.0.0",
     "putyourlightson/craft-sprig": "3.0.0",
     "servd/craft-asset-storage": "^4.0.3",
-    "spacecatninja/imager-x": "5.0.0",
-    "verbb/formie": "^3.0.0-beta.5",
     "verbb/hyper": "^2.0.0-beta.7",
     "vlucas/phpdotenv": "^5.4.0"
   },
